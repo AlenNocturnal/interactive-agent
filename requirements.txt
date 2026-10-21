@@ -1,0 +1,10 @@
+# Core Agent Framework
+smolagents
+
+# Local LLM Integration
+ollama
+litellm
+
+# Base Tools & Dependencies
+ddgs
+
